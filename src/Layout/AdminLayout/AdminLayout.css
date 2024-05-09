@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.admin__container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+
+  background-color: #dde0e6;
+}
+
+.admin__content {
+  width: 70%;
+  height: 100%;
+  flex: 1;
+  margin-right: -10px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 290px;
+}
