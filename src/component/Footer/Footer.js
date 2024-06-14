@@ -15,9 +15,9 @@ function Footer() {
           )}
         >
           <div>Online electronic magazine</div>
-          <div>Managing agency: Turborvip Publishing Association</div>
+          <div>Managing agency: Duong Trung Kien Publishing Association</div>
           <div>Press license: No. 75/GP-BTTTT</div>
-          <div>Deputy editor in charge: group 15</div>
+          <div>Deputy editor in charge: Duong Trung Kien</div>
           <div>©All copyright belongs to Knowledge Online</div>
         </div>
         <div className={clsx("col-md-4 col-lg-4 col-sm-4 col-xs-12")}>
